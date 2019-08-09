@@ -38,7 +38,7 @@
         "zeek.id.orig_p": {
           "path_match": "zeek.id.orig_p",
           "mapping": {
-            "type": "date"
+            "type": "float"
           }
         }
       },
